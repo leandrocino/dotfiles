@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = leandro.cino@gmail.com
+	name = Leandro Cino
